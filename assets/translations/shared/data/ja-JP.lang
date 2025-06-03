@@ -1,0 +1,22 @@
+Japanese (Japan)
+
+//Gameplay
+score_text: "スコア: {1} | ミス: {2} | 評価: {3}"
+score_text_instakill: "スコア: {1} | 評価: {2}"
+botplay: "ボットプレイ"
+
+rating_you_suck: "最悪だな!"
+rating_shit: "たわごと"
+rating_bad: "悪い"
+rating_bruh: "やっぱ"
+rating_meh: "まあ"
+rating_nice: "ニース"
+rating_good: "良い"
+rating_great: "素晴らしい"
+rating_sick: "病気!"
+rating_perfect: "完璧!!"
+
+// Pause Menu
+pause_resume: "再開する"
+
+your_phrase_code: "英語（米国）のフレーズ\nスコア: {1}"
